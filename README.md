@@ -1,5 +1,8 @@
 # expense_tracker
 
+- Carlos Eduardo Sousa
+- Bruno Pioltini Paiva
+
 A new Flutter project.
 
 ## Getting Started
